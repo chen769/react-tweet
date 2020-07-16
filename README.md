@@ -1,3 +1,6 @@
+### Attention
+Please Note that I couldn't use redux-saga, not didn't use it. If you want me the other works using redux-saga, please let me know.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
